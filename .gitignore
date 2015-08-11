@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+# IntelliJ Files
+.idea/
+CordovaDemo.iml
+
+# mac Files
+.DS_Store
