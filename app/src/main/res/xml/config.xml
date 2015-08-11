@@ -24,4 +24,6 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <preference name="webview" value="com.leo.demo.LeoWebViewEngine" />
+    <preference name="loglevel" value="VERBOSE" />
 </widget>
