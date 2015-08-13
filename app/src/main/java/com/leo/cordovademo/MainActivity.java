@@ -30,6 +30,7 @@ public class MainActivity extends CordovaActivity{
 ////        Log.i("leo", "before init:" + pluginEntries.size());
 //        super.init();
         //loadUrl("http://121.52.235.232:30006/static/guessemoji_fbads/index.html");
-        loadUrl(launchUrl);
+        //loadUrl(launchUrl);
+        loadUrl("http://121.52.235.232:30006/static/guessemoji_fbads/demo/index.html");
     }
 }
