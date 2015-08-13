@@ -12,7 +12,6 @@ import org.apache.cordova.CordovaActivity;
 import org.apache.cordova.PluginEntry;
 import org.apache.cordova.whitelist.WhitelistPlugin;
 
-import java.util.ArrayList;
 
 
 public class MainActivity extends CordovaActivity{
@@ -22,6 +21,8 @@ public class MainActivity extends CordovaActivity{
         super.onCreate(savedInstanceState);
         //super.onCreate(savedInstanceState);
         //master comments
+        //test comments
+        //test comments2
 
 //        pluginEntries= new ArrayList<PluginEntry>();
 //        PluginEntry pluginEntry = new PluginEntry("FacebookAds",new FacebookAdPlugin());
