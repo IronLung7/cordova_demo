@@ -21,6 +21,7 @@ public class MainActivity extends CordovaActivity{
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //super.onCreate(savedInstanceState);
+        //master comments
 
 //        pluginEntries= new ArrayList<PluginEntry>();
 //        PluginEntry pluginEntry = new PluginEntry("FacebookAds",new FacebookAdPlugin());
