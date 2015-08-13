@@ -35,4 +35,6 @@ public class MainActivity extends CordovaActivity{
         //loadUrl(launchUrl);
         loadUrl("http://121.52.235.232:30006/static/guessemoji_fbads/demo/index.html");
     }
+
+    //test c0
 }
