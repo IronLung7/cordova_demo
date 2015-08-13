@@ -37,4 +37,5 @@ public class MainActivity extends CordovaActivity{
     }
 
     //test c0
+    //test c1
 }
